@@ -9,3 +9,5 @@ requirements for homework 3:
 6. prompt user if no password options are selected (you can use one alert or many alerts to notify the user)
 7. when all prompts are answered password is generated
 8. final password can be displayed in an alert or written to the web page.
+
+["!", "#", "$", "%", "&", "(", ")", "*", "+", ",", "-", ".", "/", ":", ";", "<", "=", ">", "?", "@", "|"]
