@@ -8,10 +8,10 @@ function generatePassword() {
     if (passwordLength < 8 || passwordLength > 128) {
       alert("Please enter valid character count.")
     };
-    // // conditional statement: if password is not a number, alert user to enter valid number
-    // if (passwordLength.isNan(length)) {
-    //   alert("Please enter valid number.")
-    // };
+    // conditional statement: if password is not a number, alert user to enter valid number
+    if (isNaN(passwordLength)) {
+      alert("Please enter a valid number.")
+    };
     // ask user if they want lowercase letters in their password
   var passwordLowercase = confirm("Click OK to include lowercase letters in your password.");
    // ask user if they want uppercase letters in their password
