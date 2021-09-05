@@ -16,7 +16,7 @@ Clone the repo down by using:
 <br>
 (located in the green Code button)
 <br>
-_Next_, open the [inde.html](./index.html), then press Option + b for Mac OS. Or, right-click the file and select "Open in Default Browser." You browser will then load the application. From there, follow the prompts to generate you very own password!
+_Next_, open the [index.html](./index.html), then press Option + b for Mac OS. Or, right-click the file and select "Open in Default Browser." You browser will then load the application. From there, follow the prompts to generate you very own password!
 
 ## :fire: Tech Stack :fire:
 This application demonstrates proficiency in JavaScript. Specifically: prompts, alerts, functions, for loops, concatenation, and arrays. As well as the use of HTML and CSS in conjunction with JavaScript! Whew! See the following resources to learn more.
