@@ -1,4 +1,4 @@
-## She Needed Stronger Passwords
+## :sparkles: She Needed Stronger Passwords :sparkles:
 Welcome y'all! Use this application to generate strong passwords. This password generator utilizes prompts to determine length, character type, with the option to include/ exclude numeric and special characters. When all prompts have been answered, a new password is generated!
 
 ## She Know the Highest Stakes - Password Security
