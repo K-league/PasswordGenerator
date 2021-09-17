@@ -20,3 +20,8 @@ _Next_, open the [index.html](./index.html), then press Option + b for Mac OS. O
 
 ## :fire: Tech Stack :fire:
 This application demonstrates proficiency in JavaScript. Specifically: prompts, alerts, functions, for loops, concatenation, and arrays. As well as the use of HTML and CSS in conjunction with JavaScript! Whew! See the following resources to learn more.
+<ol>
+<li> Intro to [HTML](https://www.w3schools.com/html/html_intro.asp)
+<li> Into to [CSS](https://www.w3schools.com/css/css_intro.asp)
+<li> Intro to [JavaScript](https://www.w3schools.com/js/js_intro.asp)
+</ol>
