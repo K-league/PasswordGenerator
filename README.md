@@ -19,9 +19,4 @@ Clone the repo down by typing th following into your prefered CLI:
 _Next_, open the [index.html](./index.html), then press Option + b for Mac OS. Or, right-click the file and select "Open in Default Browser." Your browser will then load the application. From there, follow the prompts to generate your very own password!
 
 ## :fire: Tech Stack :fire:
-This application demonstrates proficiency in JavaScript. Specifically: prompts, alerts, functions, for loops, concatenation, and arrays. As well as the use of HTML and CSS in conjunction with JavaScript! Whew! See the following resources to learn more.
-<ol>
-<li> Intro to [HTML]("https://www.w3schools.com/html/html_intro.asp")
-<li> Intro to [CSS]("https://www.w3schools.com/css/css_intro.asp")
-<li> Intro to [JavaScript]("https://www.w3schools.com/js/js_intro.asp")
-</ol>
+This application demonstrates proficiency in JavaScript. Specifically: prompts, alerts, functions, for loops, concatenation, and arrays. As well as the use of HTML and CSS in conjunction with JavaScript! Whew! See the [W3Schools](www.w3schools.com) to learn more about these tools.
